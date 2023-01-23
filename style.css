@@ -73,6 +73,6 @@ canvas {
 
 @media (max-width:800px) {
   canvas {
-    width: 550px;
+    width: 95%;
   }
 }
